@@ -1,6 +1,6 @@
 # Data Analysis and Prediction App with LLM-Based Assistant 🚀
 This application provides comprehensive tools for data analysis and feature engineering, along with predictive modeling capabilities. Additionally, it includes an assistant chatbot that uses Llama 3 and Google Gemini to offer insightful guidance during your data science journey.
-## See Demo 📺 [Click here](https://data-analysis-app-geminpro.streamlit.app)
+## See Demo 📺 [Click here](https://www.youtube.com/watch?v=Y-BYqcDLAQ4)
 ![Project Picture](https://github.com/mohamedhmida14/Projet-Atelier-Stat/blob/main/Image%20Projet%20Atelier%20Stat.PNG)
 ## Table of Contents 📚
 1. [Features](#features) 🌟
